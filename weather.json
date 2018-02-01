@@ -1,0 +1,481 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "geolookup": 1
+  ,
+  "conditions": 1
+  }
+	}
+		,	"location": {
+		"type":"CITY",
+		"country":"US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"state":"CA",
+		"city":"Beverly Hills",
+		"tz_short":"PST",
+		"tz_long":"America/Los_Angeles",
+		"lat":"34.09999847",
+		"lon":"-118.41000366",
+		"zip":"90210",
+		"magic":"1",
+		"wmo":"99999",
+		"l":"/q/zmw:90210.1.99999",
+		"requesturl":"US/CA/Beverly_Hills.html",
+		"wuiurl":"https://www.wunderground.com/US/CA/Beverly_Hills.html",
+		"nearby_weather_stations": {
+		"airport": {
+		"station": [
+		{ "city":"Santa Monica", "state":"CA", "country":"US", "icao":"KSMO", "lat":"34.02000046", "lon":"-118.44999695" }
+		,{ "city":"Burbank", "state":"CA", "country":"US", "icao":"KBUR", "lat":"34.20000076", "lon":"-118.36000061" }
+		,{ "city":"Van Nuys", "state":"CA", "country":"US", "icao":"KVNY", "lat":"34.20999908", "lon":"-118.48999786" }
+		,{ "city":"Los Angeles Downtown", "state":"CA", "country":"US", "icao":"KCQT", "lat":"34.04999924", "lon":"-118.23999786" }
+		]
+		}
+		,
+		"pws": {
+		"station": [
+		{
+		"neighborhood":"Beverly Hills Post Office (BHPO)",
+		"city":"Beverly Hills",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABEVER31",
+		"lat":34.099678,
+		"lon":-118.420692,
+		"distance_km":0,
+		"distance_mi":0
+		},
+		{
+		"neighborhood":"Trousdale Estates",
+		"city":"Beverly Hills",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABEVER9",
+		"lat":34.095146,
+		"lon":-118.397423,
+		"distance_km":1,
+		"distance_mi":0
+		},
+		{
+		"neighborhood":"Beverly Hills",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN623",
+		"lat":34.088417,
+		"lon":-118.430656,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Hollywood Hills West",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN474",
+		"lat":34.111244,
+		"lon":-118.387733,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"The Flats",
+		"city":"Beverly Hills",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABEVER7",
+		"lat":34.083321,
+		"lon":-118.392120,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Beverly Hills-Beverly Crest",
+		"city":"Beverly Hills",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABEVER24",
+		"lat":34.119225,
+		"lon":-118.425591,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Norma Triangle",
+		"city":"West Hollywood",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAWESTH17",
+		"lat":34.084923,
+		"lon":-118.388283,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"West West Hollywood",
+		"city":"West Hollywood",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAWESTH20",
+		"lat":34.087971,
+		"lon":-118.384056,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Beverly Hills City Hall",
+		"city":"Beverly Hills",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABEVER26",
+		"lat":34.072876,
+		"lon":-118.400352,
+		"distance_km":3,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Hollywood Hills",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN329",
+		"lat":34.113777,
+		"lon":-118.378700,
+		"distance_km":3,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Beverly Hills",
+		"city":"Beverly Hills",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABEVER29",
+		"lat":34.076996,
+		"lon":-118.387901,
+		"distance_km":3,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Beverly Glen",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN616",
+		"lat":34.107670,
+		"lon":-118.447357,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Wilshire Boulevard",
+		"city":"Beverly Hills",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABEVER18",
+		"lat":34.067528,
+		"lon":-118.402443,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"South Roxbury Drive",
+		"city":"Beverly Hills",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABEVER5",
+		"lat":34.066658,
+		"lon":-118.405693,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"N Kings Road",
+		"city":"West Hollywood",
+		"state":"CA",
+		"country":"US",
+		"id":"KCAWESTH16",
+		"lat":34.089378,
+		"lon":-118.371368,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Hollywood Hills",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN353",
+		"lat":34.100582,
+		"lon":-118.367386,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"WANAMAKER (Beverly Center)",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN631",
+		"lat":34.077980,
+		"lon":-118.374985,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Beverly Ranch Road",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN157",
+		"lat":34.133408,
+		"lon":-118.429085,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"BHPO",
+		"city":"Beverly Hills",
+		"state":"CA",
+		"country":"US",
+		"id":"KCABEVER6",
+		"lat":34.133434,
+		"lon":-118.429100,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Station Road",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN204",
+		"lat":34.133034,
+		"lon":-118.389565,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"WS FESTUS",
+		"city":"Studio City",
+		"state":"CA",
+		"country":"US",
+		"id":"KCASTUDI19",
+		"lat":34.126835,
+		"lon":-118.377876,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Beverly Glen",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN111",
+		"lat":34.126690,
+		"lon":-118.443336,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Beverly Grove",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN452",
+		"lat":34.072056,
+		"lon":-118.378067,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Los Angeles",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN709",
+		"lat":34.116169,
+		"lon":-118.367645,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Upper Mt. Olympus (MWP)",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN704",
+		"lat":34.116184,
+		"lon":-118.367615,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Bel Air (Stone Canyon)",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN430",
+		"lat":34.104362,
+		"lon":-118.456551,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"UCLA Knudsen Hall - Second Floor, Outdoors",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN692",
+		"lat":34.070541,
+		"lon":-118.441086,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Mulholland Drive",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN159",
+		"lat":34.135078,
+		"lon":-118.432045,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Hollywood Hills",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN297",
+		"lat":34.106800,
+		"lon":-118.362900,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Central LA",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN397",
+		"lat":34.087379,
+		"lon":-118.362038,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Los Angeles",
+		"city":"Sherman Oaks",
+		"state":"CA",
+		"country":"US",
+		"id":"KCASHERM18",
+		"lat":34.131954,
+		"lon":-118.446037,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Bel Air",
+		"city":"Los Angeles",
+		"state":"CA",
+		"country":"US",
+		"id":"KCALOSAN682",
+		"lat":34.094730,
+		"lon":-118.462547,
+		"distance_km":4,
+		"distance_mi":2
+		}
+		]
+		}
+		}
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Beverly Hills, CA",
+		"city":"Beverly Hills",
+		"state":"CA",
+		"state_name":"California",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"90210",
+		"magic":"1",
+		"wmo":"99999",
+		"latitude":"34.09999847",
+		"longitude":"-118.41000366",
+		"elevation":"168.9"
+		},
+		"observation_location": {
+		"full":"Beverly Hills Post Office (BHPO), Beverly Hills, California",
+		"city":"Beverly Hills Post Office (BHPO), Beverly Hills",
+		"state":"California",
+		"country":"US",
+		"country_iso3166":"US",
+		"latitude":"34.099678",
+		"longitude":"-118.420692",
+		"elevation":"991 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"KCABEVER31",
+		"observation_time":"Last Updated on February 1, 2:25 AM PST",
+		"observation_time_rfc822":"Thu, 01 Feb 2018 02:25:37 -0800",
+		"observation_epoch":"1517480737",
+		"local_time_rfc822":"Thu, 01 Feb 2018 02:25:47 -0800",
+		"local_epoch":"1517480747",
+		"local_tz_short":"PST",
+		"local_tz_long":"America/Los_Angeles",
+		"local_tz_offset":"-0800",
+		"weather":"Clear",
+		"temperature_string":"66.2 F (19.0 C)",
+		"temp_f":66.2,
+		"temp_c":19.0,
+		"relative_humidity":"22%",
+		"wind_string":"From the ENE at 1.8 MPH Gusting to 2.2 MPH",
+		"wind_dir":"ENE",
+		"wind_degrees":59,
+		"wind_mph":1.8,
+		"wind_gust_mph":"2.2",
+		"wind_kph":2.9,
+		"wind_gust_kph":"3.5",
+		"pressure_mb":"1015",
+		"pressure_in":"29.98",
+		"pressure_trend":"0",
+		"dewpoint_string":"26 F (-3 C)",
+		"dewpoint_f":26,
+		"dewpoint_c":-3,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"66.2 F (19.0 C)",
+		"feelslike_f":"66.2",
+		"feelslike_c":"19.0",
+		"visibility_mi":"10.0",
+		"visibility_km":"16.1",
+		"solarradiation":"0",
+		"UV":"0.0","precip_1hr_string":"0.00 in ( 0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"forecast_url":"http://www.wunderground.com/US/CA/Beverly_Hills.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KCABEVER31",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=34.099678,-118.420692",
+		"nowcast":""
+	}
+}
