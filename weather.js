@@ -4,8 +4,7 @@ const api = require('./api.json');
 // import http for the STATUS_CODES
 const http = require('http');
 
-let getWeather = (query) =>
-{
+let getWeather = (query) => {
     const readableQuery = query.replace('_', ' ');
     try
     {
@@ -29,9 +28,10 @@ let getWeather = (query) =>
                         //     if(e) console.error(e.message);
                         //     else console.log('The .json file was created successfully.')
                         // })
+
                         // Print the data
                         if(weather.location) console.log(`Current temperature in ${weather.location.city} is ${weather.current_observation.temp_c}C`);
-                        else console.error(`The location ${readableQuery} was not found.`);
+                        else console.error(`The location "${readableQuery}" was not found.`);
                     }
                     catch(e)
                     {
