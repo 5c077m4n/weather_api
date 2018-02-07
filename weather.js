@@ -1,7 +1,7 @@
 const https = require('https');
 const api = require('./api.json');
 // const file = require('fs');
-// import http for the STATUS_CODES
+// import http for the STATUS_CODES array
 const http = require('http');
 
 let getWeather = (query) => {
